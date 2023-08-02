@@ -1,0 +1,6 @@
+Preferences {
+ inputs 0
+ name Preferences
+ selectedGPUDeviceName "AMD Radeon Graphics (gfx902)"
+ platformPathRemaps ""
+}

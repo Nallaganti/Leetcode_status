@@ -1,0 +1,45 @@
+{
+	"analytics-uuid": "c5104e64-2d44-47e4-9547-5e3f982f5626",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1628422139806
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "115508041371788295842",
+		"email": "anu04223@gmail.com",
+		"email_verified": true,
+		"at_hash": "uRItW0zyHXajLY0VKusbyg",
+		"iat": 1628333576,
+		"exp": 1628337176
+	},
+	"tokens": {
+		"expires_at": 1628338435698,
+		"refresh_token": "1//0gyOFcPHp-FbICgYIARAAGBASNwF-L9Ir7yt7GemRgt5fXSw3O93J8SP3ddQQR41zBTZvpYPviu0IaeNTqEXRoYWxxfj-Id3Ndcc",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM_eGy6672CdQtx6lbp_auQD79D_euFKF3tfDhEShyVJ7TtldbWe2VjijsWmJQQgNQYQ2VxvedNAq17SwRp9s7Xn6CB_0nBkjgOuaruF-fvwJ_xAUwO9p5ZxcHmFfaI_80U984e3h75jOi2Qj7OR8tIbnvNjyjac",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBmY2MwMTRmMjI5MzRlNDc0ODBkYWYxMDdhMzQwYzIyYmQyNjJiNmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE1NTA4MDQxMzcxNzg4Mjk1ODQyIiwiZW1haWwiOiJhbnUwNDIyM0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjVPZzBwSW5xdXdfR0NWb1lDTlNSd2ciLCJpYXQiOjE2MjgzMzQ4ODAsImV4cCI6MTYyODMzODQ4MH0.1O-XQEIfzdS4qJjvJt5lmkHntWT_hJffpDE6vkkgTmS7JBZd9eQCEgR1iaecExiJv-xkUyV_xchwhrqTH76RdZAEvrHL4HorXwDfVaMPAQX2bPgvmZad9qwNHl8fFrc-7-4isuQeluClffM3tFHli6RSSlcymcbXTCIPra4EvtwVcA1A0wMK6pf9IAdN9h0egXoIdFNTYT0tVIvZnfXFvQmuRbELRV4ikIPbRrDvg-OOyGe7JcJOeZYkicSkzq-OaOzd-AmVWIfnoKDfOmxAJepO_08CYDCClvgleWq3uYXI_mMMNzsGK8yFXvcsP9uPD7NC7tTjOJNUgS6fbdEkLA"
+	},
+	"activeProjects": {
+		"C:\\Users\\Anoosha\\Desktop\\host": "my-web-bc1c9"
+	},
+	"lastError": 1628422141544
+}

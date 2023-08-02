@@ -1,0 +1,7 @@
+[user]
+	name = Anu
+	email = anu04223@gmail.com
+[http]
+	sslverify = false
+[http "https://domain.com"]
+	proxy = http://proxyUsername:proxyPassword@proxy.server.com:port

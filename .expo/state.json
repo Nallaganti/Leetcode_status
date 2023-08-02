@@ -1,0 +1,5 @@
+{
+  "PATH": "C:\\windows\\system32;C:\\windows;C:\\windows\\System32\\Wbem;C:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\windows\\System32\\OpenSSH\\;C:\\msys64\\mingw64\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\Anoosha\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Anoosha\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Anoosha\\.dotnet\\tools;C:\\Users\\Anoosha\\AppData\\Roaming\\npm;C:\\Users\\Anoosha\\AppData\\Roaming\\npm",
+  "openDevToolsAtStartup": true,
+  "uuid": "d4226738-e6c9-4469-830f-b7d3efb7a111"
+}
